@@ -106,7 +106,7 @@ I am a detail-oriented **Computer Science student specializing in Artificial Int
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimis-hra&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
+&count_private=true
 ---
 
 <p align="center">⭐️ From designing intelligent algorithms to architecting cloud workflows, I love building things that solve practical problems!</p>
