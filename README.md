@@ -51,7 +51,7 @@ I am a detail-oriented **Computer Science student specializing in Artificial Int
 ## 💼 Professional Experience
 
 ### ⚙️ Artificial Intelligence & Machine Learning Intern
-**CodSoft**
+**At CodSoft**
 * Developing and implementing predictive models and data-driven solutions using Python, Scikit-Learn, and TensorFlow to solve real-world automation and analytical problems.
 * Engineering data preprocessing pipelines (data cleaning, feature engineering) to optimize training efficiency and machine learning model performance.
 * Leveraging version control tools like Git and GitHub for collaborative workflow management.
@@ -106,7 +106,7 @@ I am a detail-oriented **Computer Science student specializing in Artificial Int
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimis-hra&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-&count_private=true
+
 ---
 
 <p align="center">⭐️ From designing intelligent algorithms to architecting cloud workflows, I love building things that solve practical problems!</p>
