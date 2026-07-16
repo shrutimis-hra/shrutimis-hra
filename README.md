@@ -51,13 +51,13 @@ I am a detail-oriented **Computer Science student specializing in Artificial Int
 ## 💼 Professional Experience
 
 ### ⚙️ Artificial Intelligence & Machine Learning Intern
-**At CodSoft**
+**At CodecTechnologies**
 * Developing and implementing predictive models and data-driven solutions using Python, Scikit-Learn, and TensorFlow to solve real-world automation and analytical problems.
 * Engineering data preprocessing pipelines (data cleaning, feature engineering) to optimize training efficiency and machine learning model performance.
 * Leveraging version control tools like Git and GitHub for collaborative workflow management.
 
 ### ⚙️ Infosys Springboard Virtual Internship (Artificial Intelligence)
-* Engaging in industry-aligned training and project work focusing on advanced AI paradigms.
+* Engaging in industry-aligned training and project work using Agile scrum focusing on advanced AI paradigms.
 
 ---
 
